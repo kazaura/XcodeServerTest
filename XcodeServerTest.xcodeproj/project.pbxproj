@@ -14,6 +14,7 @@
 		0DEA08791F75480A00569A7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DEA08771F75480A00569A7E /* LaunchScreen.storyboard */; };
 		0DEA08841F75480A00569A7E /* XcodeServerTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEA08831F75480A00569A7E /* XcodeServerTestTests.swift */; };
 		0DEA088F1F75480A00569A7E /* XcodeServerTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEA088E1F75480A00569A7E /* XcodeServerTestUITests.swift */; };
+		0DEA089D1F75497100569A7E /* Tekitou.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEA089C1F75497100569A7E /* Tekitou.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0DEA088A1F75480A00569A7E /* XcodeServerTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeServerTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DEA088E1F75480A00569A7E /* XcodeServerTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeServerTestUITests.swift; sourceTree = "<group>"; };
 		0DEA08901F75480A00569A7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DEA089C1F75497100569A7E /* Tekitou.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tekitou.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				0DEA086E1F75480A00569A7E /* AppDelegate.swift */,
 				0DEA08701F75480A00569A7E /* ViewController.swift */,
+				0DEA089C1F75497100569A7E /* Tekitou.swift */,
 				0DEA08721F75480A00569A7E /* Main.storyboard */,
 				0DEA08751F75480A00569A7E /* Assets.xcassets */,
 				0DEA08771F75480A00569A7E /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0DEA08711F75480A00569A7E /* ViewController.swift in Sources */,
+				0DEA089D1F75497100569A7E /* Tekitou.swift in Sources */,
 				0DEA086F1F75480A00569A7E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
