@@ -6,4 +6,4 @@
 //  Copyright © 2017年 kazaura. All rights reserved.
 //
 
-import Foundation   
+import Foundation
